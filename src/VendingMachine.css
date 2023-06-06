@@ -1,0 +1,9 @@
+.vendingItem {
+    width:500px;
+    height:500px;
+}
+
+.vendingMachine {
+    max-width: 80vw;
+    max-height: 80vh;
+}
